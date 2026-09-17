@@ -7,6 +7,7 @@ public class Car {
     public String marca;
     public String modelo;
     public boolean estado;
+    public String placa;
 
     /*Metodos*/
     public void encender() {
